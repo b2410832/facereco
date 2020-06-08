@@ -1,0 +1,13 @@
+.wordstyle {
+	color: white;
+	font-family: 'DM Mono', monospace;
+}
+
+.cursor {
+	cursor: pointer;
+}
+
+
+.form {
+	margin: 0 auto;
+}
